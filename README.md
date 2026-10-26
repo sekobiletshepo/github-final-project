@@ -11,3 +11,4 @@ Output
    simple interest = p*t*r/100
 
    Task 1 repo url : https://github.com/sekobiletshepo/github-final-project.git
+Task 2 repo url : https://github.com/sekobiletshepo/github-final-project.git
